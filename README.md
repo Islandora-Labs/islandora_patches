@@ -1,15 +1,14 @@
-# MODULE NAME
+# Disable Download Clip
 
 ## Introduction
 
-DESCRIPTION
+Disables the download clip route as it is an open proxy.
 
 ## Requirements
 
 This module requires the following modules/libraries:
 
 * [Islandora](https://github.com/islandora/islandora)
-* [Tuque](https://github.com/islandora/tuque)
 
 ## Installation
 
