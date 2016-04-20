@@ -1,8 +1,8 @@
-# Islandora Patches
+# Disable Print Endpoint
 
 ## Introduction
 
-This collection of modules patches Islandora functionality for security reasons.
+Disables the print route as it is an open proxy.
 
 ## Requirements
 
