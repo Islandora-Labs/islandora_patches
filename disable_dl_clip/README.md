@@ -1,8 +1,8 @@
-# Islandora Patches
+# Disable Download Clip
 
 ## Introduction
 
-This collection of modules patches Islandora functionality for security reasons.
+Disables the download clip route as it is an open proxy.
 
 ## Requirements
 
