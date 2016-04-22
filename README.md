@@ -22,7 +22,7 @@ Having problems or solved a problem? Contact [discoverygarden](http://support.di
 
 Current maintainers:
 
-* [discoverygarden](http://www.discoverygarden.ca)
+* [Dan Aitken](https://github.com/qadan)
 
 ## Development
 
